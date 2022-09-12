@@ -1,0 +1,15 @@
+C:\.NET\dispose-example\bin\Debug\net6.0\dispose-example.exe
+C:\.NET\dispose-example\bin\Debug\net6.0\dispose-example.deps.json
+C:\.NET\dispose-example\bin\Debug\net6.0\dispose-example.runtimeconfig.json
+C:\.NET\dispose-example\bin\Debug\net6.0\dispose-example.dll
+C:\.NET\dispose-example\bin\Debug\net6.0\dispose-example.pdb
+C:\.NET\dispose-example\obj\Debug\net6.0\dispose-example.csproj.AssemblyReference.cache
+C:\.NET\dispose-example\obj\Debug\net6.0\dispose-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\dispose-example\obj\Debug\net6.0\dispose-example.AssemblyInfoInputs.cache
+C:\.NET\dispose-example\obj\Debug\net6.0\dispose-example.AssemblyInfo.cs
+C:\.NET\dispose-example\obj\Debug\net6.0\dispose-example.csproj.CoreCompileInputs.cache
+C:\.NET\dispose-example\obj\Debug\net6.0\dispose-example.dll
+C:\.NET\dispose-example\obj\Debug\net6.0\refint\dispose-example.dll
+C:\.NET\dispose-example\obj\Debug\net6.0\dispose-example.pdb
+C:\.NET\dispose-example\obj\Debug\net6.0\dispose-example.genruntimeconfig.cache
+C:\.NET\dispose-example\obj\Debug\net6.0\ref\dispose-example.dll
